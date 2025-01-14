@@ -1,4 +1,4 @@
-package com.zup.helloworld;
+package com.zup.hello-world;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
